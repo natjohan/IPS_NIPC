@@ -1,2 +1,2 @@
 # IPS_NIPC
-Networking In Public Cloud
+Networking In Public Cloud Exercices
